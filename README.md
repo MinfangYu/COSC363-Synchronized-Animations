@@ -12,7 +12,9 @@
 3) Compile
 
 ## Overview of the Project
-This is a whole sense. It is built in the snow mountain(sky box) and has two synchronized animations.
+![image](https://github.com/MinfangYu/Synchronized-Animations-OpenGL/blob/master/scene.jpg)
+
+This is the whole sense. It is built in the snow mountain(sky box) and has two synchronized animations.
 The torus swings left and right, while the sphere will swing back and forth. When the torus reaches its lowest point and the sphere reaches its highest point, the sphere can pass through the middle of the torus. 
 The sphere is bounced back and forth by two spring pillars in a circular motion, and the torus is pulled in a circular motion by an inelastic rope hung on the shelf. 
 There is a base next to the shelf with a barrel built on it. It detects collisions and automatically launches a bullet every time the sphere hits the spring pillar in front. 
